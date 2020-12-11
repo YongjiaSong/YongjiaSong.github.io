@@ -5,12 +5,20 @@
     <link>https://YongjiaSong.github.io/</link>
       <atom:link href="https://YongjiaSong.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 12 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://YongjiaSong.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Academic</title>
       <link>https://YongjiaSong.github.io/</link>
     </image>
+    
+    <item>
+      <title>Comparison of two English scopally-ambiguous sentence structures in Mandarin</title>
+      <link>https://YongjiaSong.github.io/publication/scopeambiguity/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://YongjiaSong.github.io/publication/scopeambiguity/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
